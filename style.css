@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Poppins', sans-serif;
+}
+.main{
+  height: 150px;
+  background-color: slateblue;
+}
+.cnt1 h2{
+  color: lavender;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-top: 20px;
+  
+}
+.search_bar{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 250px;
+  height: 50px;
+  border-radius: 20px;
+  border: 0;
+  box-shadow: 0 0 5px;
+}
+.console{
+  background-color: lavender;
+  height: 100vh;
+}
+footer{
+  color: lavender;
+  background-color: slateblue;
+  display: flex;
+  justify-content: center;
+  
+}
