@@ -1,1 +1,1 @@
-created js file for further development of the project
+// created js file for further development of the project
